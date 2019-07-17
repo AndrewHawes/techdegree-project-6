@@ -1,0 +1,45 @@
+.minerals__anchor {
+  border: solid 2px #DCF5F2;
+  color: #fdff00;
+  display: inline-block;
+  transition: background-color 200ms ease-in-out, font-weight 200ms ease-in-out, color 200ms ease-in-out;
+}
+.minerals__random a.minerals__anchor {
+  color: #fdff00;
+}
+.minerals__random a.minerals__anchor:hover,
+.minerals__anchor:hover {
+  background-color: #343434;
+  color: #DCF5F2;
+}
+body {
+  background-color: #242424;
+}
+h1 .mineral__name {
+
+}
+.minerals__container, .mineral__container {
+  background-color: #141414;
+}
+.mineral__image {
+  border-color: #505c7c;
+}
+.mineral__image-bg {
+  background-color: #282e3c;
+}
+.mineral__name, .mineral__table {
+  color: #fdff00;
+}
+.minerals__random {
+  background-color: #141414;
+  box-shadow: 0 0 100px 50px #282e3c;
+}
+.minerals__random a.minerals__anchor {
+    color: #fdff00;
+}
+.mineral__caption {
+  color: #c5c5c5;
+}
+.logo__name {
+  color: #fdff00;
+}
